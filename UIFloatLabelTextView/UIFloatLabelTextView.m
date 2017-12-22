@@ -91,7 +91,7 @@
 - (void)setupTextView
 {
     // TextView Padding
-    _horizontalPadding = 5.0f;
+    _horizontalPadding = 0.0f;
     self.contentInset = UIEdgeInsetsMake(UI_FLOAT_LABEL_VERTICAL_INSET_OFFSET,
                                          0.0f,
                                          0.0f,
