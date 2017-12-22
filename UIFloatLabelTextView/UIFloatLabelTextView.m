@@ -101,7 +101,7 @@
     [self setTextAlignment:NSTextAlignmentLeft];
     
     // Text Color
-    _storedTextColor = [UIColor blackColor];
+    _storedTextColor = [UIColor darkGrayColor];
     
     // Placeholder Color
     _placeholderTextColor = [UIColor lightGrayColor];
